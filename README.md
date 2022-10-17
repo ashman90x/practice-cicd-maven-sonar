@@ -1,0 +1,1 @@
+# practice-cicd-maven-sonar
